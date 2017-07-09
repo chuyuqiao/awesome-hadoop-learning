@@ -1,4 +1,4 @@
-package com.bigdata;
+package com.bigdata.wordcount;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
